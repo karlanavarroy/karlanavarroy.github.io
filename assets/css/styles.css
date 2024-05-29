@@ -126,7 +126,13 @@ nav ul li {
     border-radius: 6px;
     background-color: var(--bg-color);
 }
-
+.bio-title{
+    text-align: center;
+}
+p{
+   text-justify: distribute-all-lines;
+   color:#222755
+}
 .bio h1{
     margin-bottom: var(--bottom-margin);
 }
