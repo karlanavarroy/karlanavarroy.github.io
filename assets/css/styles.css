@@ -7,7 +7,7 @@
     --bold-font:700;
     --bolder-font:900;
     --bg-color: #fcfcfc;
-    --primary-color: #609fc9;
+    --primary-color: #8b3a9b;
     --secondary-color: #df9a7d;
     --primary-shadow: #4c4e64;
     --secondary-shadow: #a17a69;
@@ -27,6 +27,9 @@ html{
 }
 
 /*CSS ressets*/
+h2, h3{
+    color:#191d47;
+}
 
 *{
     margin: 0;
